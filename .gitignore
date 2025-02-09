@@ -1,0 +1,17 @@
+/backend/backend
+/pinger/pinger
+
+/frontend/node_modules/
+/backend/vendor/
+/pinger/vendor/
+
+*.iml
+.idea/
+*.swp
+
+docker-compose.override.yml
+
+*.log
+
+tmp/
+*.tmp

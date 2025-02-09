@@ -1,0 +1,11 @@
+server:
+  port: 8080
+database:
+  host: postgres
+  port: 5432
+  user: postgres
+  password: postgres
+  dbname: monitoring
+kafka:
+  brokers: ["kafka:9092"]
+  topic: ping-results

@@ -1,0 +1,6 @@
+pinger:
+  interval: 10
+  targets: ["8.8.8.8", "1.1.1.1"]
+kafka:
+  brokers: ["kafka:9092"]
+  topic: ping-results
